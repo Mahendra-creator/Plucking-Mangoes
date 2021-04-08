@@ -8,7 +8,7 @@ var tree,stone,ground,boy,m1,m2,m3,m4,m5,constraint
 
 function preload()
 {
-boy =loadImage("sprites/boy.png")
+boy =loadImage("boy.png")
 }
 
 function setup() {
