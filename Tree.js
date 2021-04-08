@@ -4,7 +4,7 @@ class Tree {
           isStatic: true
       }
       this.body = Bodies.rectangle(x,y,width,height,options);
-      this.treeimg = loadImage("sprites/tree.png")
+      this.treeimg = loadImage("tree.png")
       this.width = width;
       this.height = height;
       World.add(world, this.body);
